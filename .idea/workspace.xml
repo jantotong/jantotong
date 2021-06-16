@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8acc43d-ffe2-423a-9b41-232330f15616" name="Default Changelist" comment="11111" />
+    <list default="true" id="d8acc43d-ffe2-423a-9b41-232330f15616" name="Default Changelist" comment="11111">
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-react-jsx/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-react-jsx/node_modules/@babel/core/node_modules/.bin/parser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/plugin-transform-react-jsx/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
