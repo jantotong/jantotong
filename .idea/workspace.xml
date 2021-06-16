@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8acc43d-ffe2-423a-9b41-232330f15616" name="Default Changelist" comment="Update Description">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/header-background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/profilepic.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/resumeData.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/resumeData.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header.js" afterDir="false" />
-    </list>
+    <list default="true" id="d8acc43d-ffe2-423a-9b41-232330f15616" name="Default Changelist" comment="Update Header" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +53,7 @@
       <workItem from="1623867108204" duration="155000" />
       <workItem from="1623867296537" duration="55000" />
       <workItem from="1623867578150" duration="3000000" />
-      <workItem from="1623874524646" duration="8464000" />
+      <workItem from="1623874524646" duration="8746000" />
     </task>
     <task id="LOCAL-00002" summary="11111">
       <created>1623868080769</created>
@@ -85,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623877092202</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update Header">
+      <created>1623883953528</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1623883953528</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +105,7 @@
     <MESSAGE value="11111" />
     <MESSAGE value="Update Web Name" />
     <MESSAGE value="Update Description" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Description" />
+    <MESSAGE value="Update Header" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Header" />
   </component>
 </project>
