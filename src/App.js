@@ -10,7 +10,7 @@ import Contact from './Components/Contact';
 import Testimonials from './Components/Testimonials';
 import Portfolio from './Components/Portfolio';
 
-class App extends Component {
+class App extends React.Component {
 
   constructor(props){
     super(props);
