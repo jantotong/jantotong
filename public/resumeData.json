@@ -4,13 +4,13 @@
     "occupation": "Software Engineer",
     "description": "looking for a job opening in ",
     "image": "myface.jpg",
-    "bio":  "I am a passionate guy",
+    "bio":  "I graduated from San José State University with a Bachelor of Science in Computer Science in May of 2021.\nNow, I am looking forward to the next step of my career, which is to get a job in the field of software engineering.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "janto.tong.developer@gmail.com",
     "phone": "619-790-3792",
     "location": "California",
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resume_download": "Resume_Jan_To_Tong.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -28,9 +28,10 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
+        "school": "San José State University",
+        "degree": "Bachelor of Science in Computer Science",
+        "city": "San Jose, California",
+        "graduated": "May 2021",
         "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {

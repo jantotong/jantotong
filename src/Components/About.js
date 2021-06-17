@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 
 class About extends Component {
   render() {
-
     if(this.props.data){
       var name = this.props.data.name;
       var profilepic= "images/"+this.props.data.image;
@@ -10,7 +9,7 @@ class About extends Component {
         var phone= this.props.data.phone;
         var phone= this.props.data.phone;
       var email = this.props.data.email;
-      var resumeDownload = this.props.data.resumedownload;
+      var resume_Download = "images/"+this.props.data.resume_download;
     }
 
     return (
@@ -20,7 +19,7 @@ class About extends Component {
             <img className="profile-pic"  src={profilepic} alt="Photo of Jan To Tong" />
          </div>
          <div className="nine columns main-col">
-            <h2>My Story</h2>
+            <h2>My Current Goal</h2>
             <p>{bio}</p>
             <div className="row">
                <div className="columns contact-details">
@@ -33,7 +32,7 @@ class About extends Component {
                </div>
                <div className="columns download">
                   <p>
-                     <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
+                     <a href={resume_Download} className="button" download><i className="fa fa-download"></i>Download Resume</a>
                   </p>
                </div>
             </div>

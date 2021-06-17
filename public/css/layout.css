@@ -194,7 +194,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #2B2B2B;
+   background: #ffffff;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -204,18 +204,18 @@ ul#nav li.current a { color: #F06000; }
 #about a:hover, #about a:focus { color: #11ABB0; }
 
 #about h2 {
-   font: 22px/30px 'opensans-bold', sans-serif;
-   color: #fff;
+   font: 30px 'opensans-bold', sans-serif;
+   color: #000000;
    margin-bottom: 12px;
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: #2f2d2d;
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
+   width: 200px;
+   height: 200px;
    border-radius: 100%;
 }
 #about .contact-details { width: 41.66667%; }
@@ -279,17 +279,23 @@ ul#nav li.current a { color: #F06000; }
    border-bottom: 1px solid #E8E8E8;
 }
 #resume .info {
-   font: 16px/24px 'librebaskerville-italic', serif;
+   font: 16px/24px 'opensans-bold', serif;
    color: #6E7881;
    margin-bottom: 18px;
    margin-top: 9px;
 }
+
+#resume .city {
+   margin-bottom: 0px;
+   margin-top: 0px;
+}
+
 #resume .info span {
    margin-right: 5px;
    margin-left: 5px;
 }
 #resume .date {
-   font: 15px/24px 'opensans-regular', sans-serif;
+   font: 15px/24px 'opensans-bold', sans-serif;
    margin-top: 6px;
 }
 
