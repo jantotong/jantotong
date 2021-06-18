@@ -9,12 +9,19 @@ class Resume extends Component {
         return <div key={education.school}><h3>{education.school}</h3>
             <p className="city">{education.city}</p>
             <p className="info">{education.degree} <span>&bull;</span><em className="date">{education.graduated}</em></p>
-        <p>{education.description}</p></div>
+            <br />
+       </div>
       })
+
       var work = this.props.data.work.map(function(work){
+          var des_arr = work.description;
+          console.log(des_arr + "  HERE  " );
+          var des_list = work.description.map(function (single_des){
+              return <li>{single_des}</li>;
+          })
         return <div key={work.company}><h3>{work.company}</h3>
             <p className="info">{work.title}<span>&bull;</span> <em className="date">{work.years}</em></p>
-            <p>{work.description}</p>
+            <ul>{des_list}</ul>
         </div>
       })
       var skills = this.props.data.skills.map(function(skills){
@@ -44,7 +51,7 @@ class Resume extends Component {
       <div className="row work">
 
          <div className="three columns header-col">
-            <h1><span>Work</span></h1>
+            <h1><span>Work Experience</span></h1>
          </div>
 
          <div className="nine columns main-col">
