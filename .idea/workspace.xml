@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8acc43d-ffe2-423a-9b41-232330f15616" name="Default Changelist" comment="Update Education (University &amp; HS)">
-      <change afterPath="$PROJECT_DIR$/public/images/java.jpg" afterDir="false" />
+    <list default="true" id="d8acc43d-ffe2-423a-9b41-232330f15616" name="Default Changelist" comment="Small Update (Image)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/portfolio/canadian-wanderlust.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/portfolio/fury-fighting-gear.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/portfolio/original-thai-food.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/portfolio/resume-website.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/portfolio/smirkspace.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/resumeData.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/resumeData.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Resume.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Resume.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Portfolio.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +72,8 @@
       <workItem from="1623950674344" duration="11789000" />
       <workItem from="1623989347019" duration="435000" />
       <workItem from="1623990793107" duration="922000" />
-      <workItem from="1624037531364" duration="11751000" />
+      <workItem from="1624037531364" duration="12808000" />
+      <workItem from="1624125002910" duration="3177000" />
     </task>
     <task id="LOCAL-00002" summary="11111">
       <created>1623868080769</created>
@@ -130,7 +131,21 @@
       <option name="project" value="LOCAL" />
       <updated>1623988388285</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Alpha 0.01">
+      <created>1624064188484</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1624064188484</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Small Update (Image)">
+      <created>1624064763940</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1624064763940</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +171,8 @@
     <MESSAGE value="Clean up conts and footer" />
     <MESSAGE value="Update About" />
     <MESSAGE value="Update Education (University &amp; HS)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Education (University &amp; HS)" />
+    <MESSAGE value="Alpha 0.01" />
+    <MESSAGE value="Small Update (Image)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Small Update (Image)" />
   </component>
 </project>

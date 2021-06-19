@@ -25,7 +25,6 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
         "school": "San José State University",
@@ -57,7 +56,7 @@
     "skills": [{
       "title": "Java",
       "image": "java.jpg",
-      "description": "The programming language I first learnt in college, and my 'main' language for the first two years of my programming career."
+      "description": "The programming language I first learnt in college."
     },
       {
         "title": "Python",
@@ -82,12 +81,12 @@
       {
         "title":"JavaScript",
         "image":"js.jpg",
-        "description": "GOAT! Combine this with HTML5 and CSS, I can create any website!"
+        "description": "Combine this with HTML5 and CSS, I can create any website!"
       },
       {
         "title":"REST API",
         "image":"rest.jpg",
-        "description": "Json and XML... easy stuff really..."
+        "description": "Json and XML..."
       },
       {
         "title":"And more!",
@@ -101,31 +100,25 @@
       {
         "title": "Key Word Recorder",
         "category": "Records keyword audio and outputs them to Google Bucket Storage.",
-        "image": "kwr.jpg",
+        "image": "kwr.gif",
         "url": "https://github.com/jantotong/Key-Word-Recorder"
       },
       {
         "title": "Vehicle Selector",
-        "category": "Vehicle-Selector",
-        "image": "vehicle_selector.jpg",
+        "category": "Vehicle Selector built with HTML, CSS, and JS. Hosted with Apache Tomcat and Java servlet.",
+        "image": "vehicle_selector.gif",
         "url": "https://github.com/jantotong/Vehicle-Selector"
-      },
-      {
-        "title": "Mini School Project Game",
-        "category": "School project of CS152 course in SJSU",
-        "image": "152.jpg",
-        "url": "https://github.com/jantotong/Project152"
       },
       {
         "title": "Personal Website",
         "category": "The website you are currently looking at. Built with react",
-        "image": "personal_web.jpg",
+        "image": "personal_web.gif",
         "url": "https://github.com/jantotong/jantotong"
       },
       {
         "title": "Vintage Arcade Game",
         "category": "Vintage arcade game built with C++'s openFramework",
-        "image": "vintage_game.jpg",
+        "image": "arcade_game.gif",
         "url": "https://github.com/jantotong/Vintage-Arcade-Game"
       }
     ]
