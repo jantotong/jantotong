@@ -42,92 +42,91 @@
     ],
     "work": [
       {
-        "company": "United Microelectronics Centre (Hong Kong)",
+        "company": "United Microelectronics Centre",
         "title": "Software Intern",
         "years": "September 2020 – March 2021",
         "description": ["Developed a web-based key word recorder to collect key word audio files with a silence trimming feature", "Worked on a smart home device project utilizing Ultra Wide-band technology", "Integrated Raspberry Pi with MDEK1001 to implement a Real-Time Locating System (RTLS)"]
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": ["Developed a web-based key word recorder to collect key word audio files with a silence trimming feature", "Worked on a smart home device project utilizing Ultra Wide-band technology", "Integrated Raspberry Pi with MDEK1001 to implement a Real-Time Locating System (RTLS)"]
+        "company": "Applied Science and Technology Research Institute (Hong Kong)",
+        "title": "Project Intern",
+        "years": "June 2019 - August 2019",
+        "description": ["Developed a customized micro Linux operating system kernel (336 kB) with C", "Developed complex GUI using JavaFX", "Worked with team members and team lead to fulfil requirements within a limited timeframe","Advocated unit testing within the team to improve code coverage and product ownership"]
       }
     ],
-    "skills": [
+    "skills": [{
+      "title": "Java",
+      "image": "java.jpg",
+      "description": "The programming language I first learnt in college, and my 'main' language for the first two years of my programming career."
+    },
       {
-        "name": "Git",
-        "level": "60%"
+        "title": "Python",
+        "image": "python.jpg",
+        "description": "One of my favourites. Easy to use and dynamic. Great for technical interviews and AI projects."
       },
       {
-        "name": "Illustrator",
-        "level": "55%"
+        "title":"C/C++",
+        "image":"c.jpg",
+        "description": "Everyone's non-favourite"
       },
       {
-        "name": "ReactJs",
-        "level": "50%"
+        "title":"React",
+        "image":"react.jpg",
+        "description": "I made this website with react, if that impresses you"
       },
       {
-        "name": "CSS",
-        "level": "90%"
+        "title":"SQL",
+        "image":"sql.jpg",
+        "description": "Database management things"
       },
       {
-        "name": "HTML5",
-        "level": "80%"
+        "title":"JavaScript",
+        "image":"js.jpg",
+        "description": "GOAT! Combine this with HTML5 and CSS, I can create any website!"
       },
       {
-        "name": "VueJs",
-        "level": "50%"
+        "title":"REST API",
+        "image":"rest.jpg",
+        "description": "Json and XML... easy stuff really..."
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "title":"And more!",
+        "image":"others.jpg",
+        "description": "I have much more skill and knowledge in the field of programming, data storage, and third-party software! Check them out on my resume!"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "Key Word Recorder",
+        "category": "Records keyword audio and outputs them to Google Bucket Storage.",
+        "image": "kwr.jpg",
+        "url": "https://github.com/jantotong/Key-Word-Recorder"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Vehicle Selector",
+        "category": "Vehicle-Selector",
+        "image": "vehicle_selector.jpg",
+        "url": "https://github.com/jantotong/Vehicle-Selector"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Mini School Project Game",
+        "category": "School project of CS152 course in SJSU",
+        "image": "152.jpg",
+        "url": "https://github.com/jantotong/Project152"
       },
       {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Personal Website",
+        "category": "The website you are currently looking at. Built with react",
+        "image": "personal_web.jpg",
+        "url": "https://github.com/jantotong/jantotong"
       },
       {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "title": "Vintage Arcade Game",
+        "category": "Vintage arcade game built with C++'s openFramework",
+        "image": "vintage_game.jpg",
+        "url": "https://github.com/jantotong/Vintage-Arcade-Game"
       }
     ]
   }
