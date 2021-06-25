@@ -195,9 +195,9 @@ ul#nav li.current a { color: #F06000; }
 
 #about {
    background: #ffffff;
-   padding-top: 96px;
-   padding-bottom: 66px;
+   padding-top: 56px;
    overflow: hidden;
+   max-height: 500px;
 }
 
 #about a, #about a:visited  { color: #fff; }
@@ -212,12 +212,21 @@ ul#nav li.current a { color: #F06000; }
    line-height: 30px;
    color: #2f2d2d;
 }
-#about .profile-pic {
+/*#about .profile-pic {*/
+/*   position: relative;*/
+/*   width: 200px;*/
+/*   height: 200px;*/
+/*   border-radius: 100%;*/
+/*}*/
+
+#bg{
+   top: 0px;
    position: relative;
    width: 200px;
    height: 200px;
    border-radius: 100%;
 }
+
 #about .contact-details { width: 41.66667%; }
 #about .download {
    width: 58.33333%;
@@ -244,9 +253,9 @@ ul#nav li.current a { color: #F06000; }
 
 #resume {
    background: #fff;
-   padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
+   position: relative;
 }
 
 #resume a, #resume a:visited  { color: #11ABB0; }
