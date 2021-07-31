@@ -96,6 +96,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Minesweeper with React",
+        "category": "Minesweeper game created with React \nIncludes testing with Jest.",
+        "image": "minesweeper.gif",
+        "url": "https://github.com/jantotong/MineSweeper"
+      },
+      {
         "title": "Key Word Recorder",
         "category": "Records keyword audio and outputs them to Google Bucket Storage.",
         "image": "kwr.gif",
