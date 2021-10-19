@@ -54,37 +54,37 @@
     "skills": [{
       "title": "Java",
       "image": "java.jpg",
-      "description": "The programming language I first learnt in college."
+      "description": "Have experience with Spring Framework."
     },
       {
         "title": "Python",
         "image": "python.jpg",
-        "description": "One of my favourites. Easy to use and dynamic. Great for technical interviews and AI projects."
+        "description": "The language I use the most for small projects because of how dynamic it is."
       },
       {
         "title":"C/C++",
         "image":"c.jpg",
-        "description": "Everyone's non-favourite"
+        "description": "Have experience with school projects."
       },
       {
         "title":"React",
         "image":"react.jpg",
-        "description": "I made this website with react, if that impresses you"
+        "description": "Made a Mine Sweeper game and porfolio website. Both avaliable in my GitHub."
       },
       {
         "title":"SQL",
         "image":"sql.jpg",
-        "description": "Database management things"
+        "description": "Have experience using mySQL, and implementing data querying."
       },
       {
         "title":"JavaScript",
         "image":"js.jpg",
-        "description": "Combine this with HTML5 and CSS, I can create any website!"
+        "description": "Have a lot of experience regarding frontend work using JavaScript."
       },
       {
         "title":"REST API",
         "image":"rest.jpg",
-        "description": "Json and XML..."
+        "description": "Used in my web servers for calls."
       },
       {
         "title":"And more!",
