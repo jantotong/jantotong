@@ -2,12 +2,12 @@
   "main": {
     "name": "Jan To Tong",
     "occupation": "Software Engineer",
-    "description": "looking for a job opening in ",
+    "description": "",
     "image": "myface.jpg",
     "bio":  "I graduated from San José State University with a Bachelor of Science in Computer Science in May of 2021.\nNow, I am looking forward to the next step of my career, which is to get a job in the field of software engineering.",
     "email": "janto.tong.developer@gmail.com",
     "phone": "619-790-3792",
-    "location": "California",
+    "location": "",
     "resume_download": "Resume_Jan_To_Tong.pdf",
     "social": [
       {
