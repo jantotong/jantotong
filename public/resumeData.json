@@ -4,7 +4,7 @@
     "occupation": "Software Engineer",
     "description": "",
     "image": "myface.jpg",
-    "bio":  "I graduated from San José State University with a Bachelor of Science in Computer Science in May of 2021",
+    "bio":  "I am currently a Fullstack Developer at Freddie Mac, working since early 2022. A recent achievement of mine is a promotion to mid-level in March 2024. I graduated from San José State University with a B.S. in Computer Science in May 2021.",
     "email": "janto.tong.developer@gmail.com",
     "phone": "619-790-3792",
     "location": "",
@@ -38,6 +38,12 @@
       }
     ],
     "work": [
+      {
+        "company": "Freddie Mac",
+        "title": "Fullstack Developer (Mid Level)",
+        "years": "January 2022 – Present",
+        "description": ["Designed and executed a new upload workflow, improving business operations by 30%", "Decomposed monolithic applications into microservices, enhancing system scalability and reliability", "Collaborated with cross-functional teams to create a strategic roadmap, turning vision into actionable plans", "Wrote high-quality, well-tested code, meeting customer needs and boosting satisfaction rates by 20%"]
+      },
       {
         "company": "United Microelectronics Centre",
         "title": "Software Intern",

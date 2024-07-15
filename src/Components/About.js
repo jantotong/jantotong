@@ -59,7 +59,7 @@ class About extends Component {
                         <canvas id="bg"></canvas>
                     </div>
                     <div className="nine columns main-col">
-                        <h2>My Current Goal</h2>
+                        <h2>Nice to meet you!</h2>
                         <p>{bio}</p>
                         <div className="row">
                             <div className="columns contact-details">
